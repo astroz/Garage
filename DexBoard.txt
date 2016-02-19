@@ -1,0 +1,17 @@
+DexBoard
+
+Team Dashboard.
+
+Internal Functions:
+- Email a daily digest.
+- Customization of board through UI.
+- Multiple application integrations.
+- Can request information and update services through email.
+
+Application Integrations:
+- PagerDuty: Who is on call, and until when.
+- VersionOne
+- Jenkins
+- Jira
+- Google Calendar
+- 
